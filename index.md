@@ -25,18 +25,24 @@ Link to README: [README](/README.md)
 
 [YouTube](https://www.youtube.com/)
 
-## Top 3 Languages
+## Top 3 Languages I like to Use
 1. C++
 2. Python
-3. English
+3. Java
 
-## Video Games I Play
-* Shadowverse WB
-* Apex Legends
-* Valorant
-* Rabbit and Steel
+## Skills I Have
+* Programming
+  * Java
+  * Python
+  * C/C++
+  * Assembly
+  * JavaScript
+* Godot Game Engine
+* PyTorch
+* Git
+* AutoCAD
 
-## TO-D0 List
+## TO-DO List
 - [x] Get familiar with Git commands
 - [ ] Send a message to Professor
 - [ ] Don't procrastinate
